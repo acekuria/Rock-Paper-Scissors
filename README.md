@@ -4,4 +4,5 @@ achieve this during every project!
 
 1) Understand the problem I'm being asked to solve
 2) Plan how I will carry it out by dividing the project into different parts and writing out 
-pseudocode for the section im on.->
+pseudocode for the section im on.
+3) Commit early and often->
